@@ -1,3 +1,21 @@
-*{
-    background-color: rebeccapurple;
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#todobox {
+    margin: auto;
+    width: 75%;
+    height: 90vh;
+}
+
+input {
+    font-size: large;
+    padding: 14px 15px;
+    width: 50%;
+    outline: none;
+}
+
+button {
+    padding: 12px 45px;
+    font-size: 20px;
 }
