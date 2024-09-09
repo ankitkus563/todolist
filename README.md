@@ -1,0 +1,1 @@
+This is todo list app which completely going to be simple where i am going to use simple html css and javascript my target is to create this app in one go. i am creating this project just to hone my programming skills .
